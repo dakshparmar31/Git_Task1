@@ -7,3 +7,5 @@ Line 5 - Commit E
 Line 6 - Commit F
 Conflict line in main
 Conflict line resolved!
+Line 7 - Commit G
+Line 7 - Extra modification added manually
