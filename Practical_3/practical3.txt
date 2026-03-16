@@ -5,3 +5,4 @@ Line 3 - Commit C
 Line 4 - Commit D
 Line 5 - Commit E
 Line 6 - Commit F
+Conflict line in main
