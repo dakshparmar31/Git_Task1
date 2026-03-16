@@ -4,3 +4,4 @@ Line 1 - Commit 1
 Line 3 - Commit 3
 
 Line 1 - Modified version 1
+Line 1 - Modified version 2
