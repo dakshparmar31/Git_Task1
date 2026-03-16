@@ -3,5 +3,3 @@ This is main file for Practical 5
 Line 3 - Commit 3
 
 Line 1 - Modified version 2
-
-Line 6 - Revert branch line
