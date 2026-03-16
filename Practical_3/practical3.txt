@@ -3,3 +3,4 @@ Line 1 - Commit A
 Line 2 - Commit B
 Line 3 - Commit C
 Line 4 - Commit D
+Line 5 - Commit E
